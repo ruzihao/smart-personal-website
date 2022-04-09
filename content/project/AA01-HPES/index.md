@@ -19,7 +19,7 @@ summary: In this paper, we propose a Scalable Heterogeneous Graph Markov Neural 
 #   url: https://twitter.com/georgecushen
 
 links:
-- name: Under review
+- name: Preparing a journal version
 
 url_code: ""
 url_pdf: ""
