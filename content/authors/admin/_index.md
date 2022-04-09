@@ -48,4 +48,4 @@ Dr. Hao (Howard) ZHONG is currently a tenure-track assistant professor in the In
 
 He enjoyed a three-year entrepreneurial experience before joining ESCP, as a founding member and Big Data Scientist of a new FinTech company in China, which leverages the power of Big Data and AI to provide financial risk management products and solutions for top financial clients. He also served as a senior financial modeling advisor in several FinTech companies in China.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
