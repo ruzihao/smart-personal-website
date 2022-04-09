@@ -1,7 +1,7 @@
 ---
 title: Hao (Howard) ZHONG
 role: "Assistant Professor "
-avatar_filename: photo_500x500_v2.png
+avatar_filename: photo_500x500_v2.jpg
 bio: ""
 interests:
   - Data Mining
