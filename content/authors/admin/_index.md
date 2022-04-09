@@ -32,7 +32,7 @@ education:
   courses:
     - course: Ph.D. in Management (Information Technology)
       institution: Rutgers University
-      year: 1
+      year: ""
     - course: M.Sc. in Computer Science
       institution: York University
       year: ""
