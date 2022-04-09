@@ -1,5 +1,5 @@
 ---
-title: [AA02-HPES] Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
+title: "[AA02-HPES] Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups"
 summary: In this paper, we propose a Scalable Heterogeneous Graph Markov Neural Network (SHGMNN) for identifying the high-potential startups. The general idea is to use graph neural networks (GNN) to learn effective startup representations through end-to-end efficient training and model the label dependency among startups through Maximum A Posterior (MAP) inference.
 # tags:
 # - Deep Learning
