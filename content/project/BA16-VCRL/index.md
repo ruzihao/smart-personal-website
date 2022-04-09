@@ -1,6 +1,6 @@
 ---
-title: "[AE16-MADA] Post-M&A Turnover Prediction using Deep Neural Networks"
-summary: In this paper, we aim to predict post-M&A turnover rate escalation at firm level and to understand the underlying driving forces using Deep Neural Networks (GNNs) models.
+title: "[BA16-VCRL] Reinforcement Learning-driven VC Investment Strategy"
+summary: In this paper, we aim to improve venture capital investment strategy by apply Reinforcement Learning (RL) techniques.
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
@@ -34,4 +34,4 @@ url_video: ""
 # slides: example
 ---
 
-In this paper, we aim to predict post-M&A turnover rate escalation at firm level and to understand the underlying driving forces using Graph Neural Networks (GNNs) models.
+In this paper, we aim to improve venture capital investment strategy by apply Reinforcement Learning (RL) techniques.

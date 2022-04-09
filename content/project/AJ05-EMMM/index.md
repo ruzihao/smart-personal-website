@@ -1,5 +1,5 @@
 ---
-title: "[AJ05-EMMM] Career Paths Clustering via Sequential Job Embedding and Mixture Markov Models"
+title: "[AJ05-EMMM] Career Paths Clustering using Embedded Mixture Markov Models"
 summary: In this paper, we develop a novel career path clustering approach with two major components. First, we formulate an embedded Markov framework to learn job embeddings from longitudinal career records and further use the job embeddings to compute dynamic embeddings of career paths. Second, to cope with heterogeneous career path clusters, we estimate a mixture of Markov models to optimize cluster-wise job embeddings with a prior embedding space shared by multiple clusters.
 # tags:
 # - Deep Learning
