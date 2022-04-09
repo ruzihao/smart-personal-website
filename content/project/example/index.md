@@ -1,6 +1,6 @@
 ---
 title: Firm Profiling and Competition Assessment
-summary: In this paper, we design a novel firm profiling and competitiveness assessment system following the framework defined by Information System Design Theory (ISDT).
+summary: In this paper, we design a novel firm profiling and competitiveness assessment system following the framework defined by Information System Design Theory (ISDT). Specifically, we build a Heterogeneous Occupation Network (HON) using heterogeneous information of employees’ occupation end education histories. We then employ a heterogeneous network embedding model to learn firms’ latent representations which are later used to train a supervised classifier model for downstream competitiveness estimation tasks.
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
@@ -29,3 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+In this paper, we design a novel firm profiling and competitiveness assessment system following the framework defined by Information System Design Theory (ISDT). Specifically, we build a Heterogeneous Occupation Network (HON) using heterogeneous information of employees’ occupation end education histories. We then employ a heterogeneous network embedding model to learn firms’ latent representations which are later used to train a supervised classifier model for downstream competitiveness estimation tasks.
