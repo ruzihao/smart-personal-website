@@ -17,6 +17,10 @@ summary: In this paper, we design a novel firm profiling and competitiveness ass
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
+
+links:
+- name: Under review
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
