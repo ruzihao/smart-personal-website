@@ -2,12 +2,12 @@
 title: Hao (Howard) ZHONG
 role: "Assistant Professor "
 avatar_filename: photo_500x500_v2.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - Applied Machine Learning
+  - Entrepreneurial Finance
+  - Business Venture Analytics
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,22 +30,24 @@ organizations:
     url: https://escp.eu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Management (Information Technology)
+      institution: Rutgers University
+      year: 1
+    - course: M.Sc. in Computer Science
+      institution: York University
+      year: ""
+    - course: B.Sc. in Electronic Information Science and Technology
+      institution: University of Science and Technology of China (USTC)
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hao (Howard) Zhong is currently a tenure-track assistant professor in the Information and Operations Management department of ESCP-Europe (Paris campus). He received his doctoral degree in Management (conc. on Data Mining) from Rutgers, the State University of New Jersey in USA. He is also holding a master's degree of Computer Science from York University in Canada and a bachelor's degree of Electronic Information Science and Technology from the University of Science and Technoloy of China (USTC).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests are in data mining and business analytics, more specifically including venture capital data mining, quantitative corporate analysis, data-driven analytics and solutions for FinTech problems. He has several publications in top venues of data mining and operations research, including refereed journals (Annals of Operations Research, IEEE Transactions on Mobile Computing, IEEE Transactions on Knowledge and Data Engineering) and conference proceedings (ACM SIGKDD, IEEE Interntional Conference on Data Mining, SIAM International Conference on Data Mining, etc). He has teaching interests in machine learning, data mining, business statistical analysis, Python programming language, etc.
+
+He enjoyed a three-year entrepreneurial experience before joining ESCP, as a founding member and Big Data Scientist of a new FinTech company in China, which leverages the power of Big Data and AI to provide financial risk management products and solutions for top financial clients. He also served as a senior financial modeling advisor in several FinTech companies in China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
