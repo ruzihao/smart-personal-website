@@ -35,13 +35,13 @@ experience:
     #     * Modelling
     #     * Deploying
         
-  # - title: Adjunct Lecturer
-  #   company: International Business School, Zhejiang University
-  #   company_url: ''
-  #   company_logo: logo_zibs
-  #   location: Zhejiang, China
-  #   date_start: '2020-05-01'
-  #   date_end: '2020-8-01'
+  - title: Adjunct Lecturer
+    company: International Business School, Zhejiang University
+    company_url: 'https://zibs.zju.edu.cn/eng/'
+    company_logo: logo_zibs
+    location: Zhejiang, China
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
     # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
