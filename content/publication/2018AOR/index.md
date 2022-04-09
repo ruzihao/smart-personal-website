@@ -15,7 +15,7 @@ author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2018"
+date: "2018-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
