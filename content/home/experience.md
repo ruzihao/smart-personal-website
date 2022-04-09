@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: ESCP Business School
     company_url: 'https://escp.eu/'
-    company_logo: logo_escp
+    company_logo: org-gc
     location: Paris
     date_start: '2020-09-01'
     date_end: ''
