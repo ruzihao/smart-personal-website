@@ -26,24 +26,23 @@ experience:
     company: ESCP Business School
     company_url: 'https://escp.eu/'
     company_logo: logo_escp
-    location: Paris
+    location: Paris, France
     date_start: '2020-09-01'
     date_end: ''
     # description: |2-
     #     Responsibilities include:
-        
     #     * Analysing
     #     * Modelling
     #     * Deploying
         
-  # - title: Professor of Semiconductor Physics
-  #   company: University X
-  #   company_url: ''
-  #   company_logo: org-x
-  #   location: California
-  #   date_start: '2016-01-01'
-  #   date_end: '2020-12-31'
-  #   description: Taught electronic engineering and researched semiconductor physics.
+  - title: Adjunct Lecturer
+    company: International Business School, Zhejiang University
+    company_url: ''
+    company_logo: logo_zibs
+    location: Zhejiang, China
+    date_start: '2020-05-01'
+    date_end: '2020-8-01'
+    # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
