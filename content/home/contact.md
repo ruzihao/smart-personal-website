@@ -1,4 +1,6 @@
 ---
+draft: true
+
 # An instance of the Contact widget.
 widget: contact
 

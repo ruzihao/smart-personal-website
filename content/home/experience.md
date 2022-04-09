@@ -42,7 +42,6 @@ experience:
     location: Zhejiang, China
     date_start: '2020-05-01'
     date_end: '2020-08-01'
-    # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Co-founder & Chief Data Scientist
     company: EZFintel, ltd.
