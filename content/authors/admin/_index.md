@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: hzhong@escp.eu
+    link: mailto:hzhong@escp.eu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
