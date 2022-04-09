@@ -12,22 +12,22 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:hzhong@escp.eu
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=5R-oveEAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/hzhonghoward/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/h_zhong
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ruzihao
 organizations:
+  - name: Information and Operations Management
   - name: ESCP Business School
     url: https://escp.eu/
-  - name: Information and Operations Management
 education:
   courses:
     - course: PhD in Artificial Intelligence
