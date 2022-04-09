@@ -44,6 +44,14 @@ experience:
     date_end: '2020-08-01'
     # description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: Co-founder & Chief Data Scientist
+    company: EZFintel, ltd.
+    company_url: 'http://ezfintel.com/'
+    company_logo: logo_ezfi
+    location: Nanjing, China
+    date_start: '2017-09-01'
+    date_end: '2019-10-01'
+
 design:
   columns: '2'
 ---
