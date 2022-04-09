@@ -1,6 +1,7 @@
 ---
 title: Hao (Howard) ZHONG
 role: "Assistant Professor "
+avatar_filename: photo_500x500_v2.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -26,6 +27,7 @@ social:
 organizations:
   - name: ESCP Business School
     url: https://escp.eu/
+  - name: Information and Operations Management
 education:
   courses:
     - course: PhD in Artificial Intelligence
