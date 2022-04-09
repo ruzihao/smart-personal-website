@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Annals of Operations Research*
-publication_short: *AOR*
+publication: In *Annals of Operations Research*
+publication_short: In *AOR*
 
 abstract: Recent years have witnessed a venture capital boom. By offering capitals and mentoring, venture investors would receive high returns if their portfolio companies successfully exit, namely being acquired or going Initial Public Offering. However, the screening and evaluation of startups for investment largely depends on the investors’ personal experiences, social relationships, and qualitative evaluation on firms. The entrepreneurial finance industry thus has a strong call for the methodologically sound, quantitative study of venture capital deals. Plus, more accessible data and more sophisticated analytics techniques signal the opportunity for methodical decision-making in investing the venture financing market. To this end, in this paper, we aim at developing a personalized portfolio strategy for assisting investors to target the right startups and determine the proper amount of capital to fund. Specifically, we first develop a Probabilistic Latent Factor model to estimate the investment preferences of all the investors in a collaborative way. The model is fitted with not only the historical investment records but also the profiles of the venture capitalists and the startups. Then, we assess the startups’ investment outcomes by regressing the potential returns and risks. We improve the regression performances by nonparametric methods. At last, we use modern portfolio theory to optimize the investment strategy over the startups recommended by the investment preference model. As a result, the investment strategy can yield maximized returns with suppressed potential risks, and meanwhile meet the investment preferences of the venture capitalists. The proposed method is evaluated using data from venture financing markets in USA, and the results show that our method outperforms other state-of-the-art methods on various metrics.
 
