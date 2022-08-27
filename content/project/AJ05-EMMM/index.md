@@ -1,37 +1,29 @@
 ---
-title: "[AJ05-EMMM] Career Paths Clustering using Embedded Mixture Markov Models"
-summary: In this paper, we develop a novel career path clustering approach with two major components. First, we formulate an embedded Markov framework to learn job embeddings from longitudinal career records and further use the job embeddings to compute dynamic embeddings of career paths. Second, to cope with heterogeneous career path clusters, we estimate a mixture of Markov models to optimize cluster-wise job embeddings with a prior embedding space shared by multiple clusters.
-# tags:
-# - Deep Learning
-# date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
-
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
-
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
-
-links:
-- name: Under review
-
-url_code: ""
 url_pdf: ""
-url_slides: ""
+summary: Extracting typical career paths from large-scale and unstructured
+  talent proﬁles has recently attracted increasing research attention. However,
+  various challenges arise in effectively analyzing self-reported career
+  records. Inspired by recent advances in neural networks and embedding models,
+  we develop a novel career path clustering approach with two major components.
+  First, we formulate an embedded Markov framework to learn job embeddings from
+  longitudinal career records and further use them to compute dynamic embeddings
+  of career paths. Second, to cope with heterogeneous career path clusters, we
+  estimate a mixture of Markov models to optimize cluster-wise job embeddings
+  with a prior embedded space shared by multiple clusters. We conduct extensive
+  experiments with our framework to investigate its algorithmic performance and
+  extract meaningful clustering patterns of career paths in the information
+  technology (IT) industry. The results show that our approach can naturally
+  discover distinct sequential path clusters and reveal valuable insights for
+  career path characterization.
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+date: 2022-08-27T09:13:06.319Z
+url_slides: ""
+title: Career Paths Clustering using Embedded Mixture Markov Models [AJ05-EMMM]
+links:
+  - name: Journal version in preparation
+    url: /project
+  - url: /project
+    name: INFORMS WDS 2022
+url_code: ""
 ---
-
-In this paper, we develop a novel career path clustering approach with two major components. First, we formulate an embedded Markov framework to learn job embeddings from longitudinal career records and further use the job embeddings to compute dynamic embeddings of career paths. Second, to cope with heterogeneous career path clusters, we estimate a mixture of Markov models to optimize cluster-wise job embeddings with a prior embedding space shared by multiple clusters.
+Extracting typical career paths from large-scale and unstructured talent proﬁles has recently attracted increasing research attention. However, various challenges arise in effectively analyzing self-reported career records. Inspired by recent advances in neural networks and embedding models, we develop a novel career path clustering approach with two major components. First, we formulate an embedded Markov framework to learn job embeddings from longitudinal career records and further use them to compute dynamic embeddings of career paths. Second, to cope with heterogeneous career path clusters, we estimate a mixture of Markov models to optimize cluster-wise job embeddings with a prior embedded space shared by multiple clusters. We conduct extensive experiments with our framework to investigate its algorithmic performance and extract meaningful clustering patterns of career paths in the information technology (IT) industry. The results show that our approach can naturally discover distinct sequential path clusters and reveal valuable insights for career path characterization.
