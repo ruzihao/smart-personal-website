@@ -12,12 +12,12 @@ date: 2022-08-27T08:58:18.071Z
 url_slides: ""
 title: Firm Profiling and Competition Assessment [AA01-BCTM]
 links:
-  - name: Under Review
-    url: /
+  - name: Journal version in preparation
+    url: /project
   - name: WITS 2021
-    url: /
+    url: /project
   - name: HICSS 2022
-    url: /
+    url: /project
 url_code: ""
 ---
 
