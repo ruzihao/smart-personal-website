@@ -20,6 +20,8 @@ header:
   - R & Business Analytics (MBD09), Master-level, 2021F, 2020F
   - Microsoft Data Tools Basics (MBD02), Master-level, 2021F, 2020F
   - Introduction of Data Analytics Coding (Tutorial), Master-level, 2021F
+- **ESCP Business School**, Dubai, UAE
+  - Statistics for Managers (Executive MSc), Master-level, 2022F
 - **International Business School (ZIBS)**, Zhejiang University, Zhejiang, China
   - Business Statistical Analysis (7121013), iMBA-level, 2020S
 - **Rutgers Business School (RBS)**, Rutgers University, New Jersey, USA
@@ -46,11 +48,12 @@ header:
 
 ## Professional Afﬁliations
 - Member of the Association of Information Systems (AIS)
-- Member of INFORMS
+- Member of INFORMS (Information Systems Society)
 - Member of the Academy of Management (AoM)
 - Member of ACM
 
 ## Professional Activities and Services
+- Senior Program Committee Member, AAAI Conference on Artiﬁcial Intelligence (AAAI), 2023
 - Program Committee Member, ACM International Conference on Information and Knowledge Management (CIKM), 2022
 - Co-Chair of Artiﬁcial Intelligence (AI) Cluster, INFORMS Annual Meeting, 2022
 - Program Committee Member, ACM International Conference on Web Search and Data Mining (WSDM), 2022
@@ -75,8 +78,10 @@ header:
 • Technology Analysis & Strategic Management (TASM)
 • Academy of Management Annual Meeting (AOM)
 • International Conference on Information Systems (ICIS)
+• Hawaii International Conference on System Sciences (HICSS)
 • Pacific Asia Conference on Information Systems (PACIS)
 • Workshop on Information Technologies and Systems (WITS)
+• INFORMS Workshop on Data Science (WDS)
 • AAAI Conference on Artiﬁcial Intelligence (AAAI)
 • International Joint Conferences on Artiﬁcial Intelligence (IJCAI)
 • ACM International Conference on Knowledge Discovery and Data Mining (KDD)
