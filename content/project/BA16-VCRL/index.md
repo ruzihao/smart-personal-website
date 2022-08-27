@@ -20,7 +20,9 @@ date: 2022-08-27T09:21:49.440Z
 url_slides: ""
 title: A Reinforcement Learning-based VC Investment Strategy [BA16-VCRL]
 links:
-  - name: Work in progress
+  - name: Journal version in preparation
+    url: /project
+  - name: INFORMS WDS 2022
     url: /project
 url_code: ""
 ---
