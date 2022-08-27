@@ -16,7 +16,7 @@ summary: Extracting typical career paths from large-scale and unstructured
   discover distinct sequential path clusters and reveal valuable insights for
   career path characterization.
 url_video: ""
-date: 2022-08-27T09:13:06.319Z
+date: 2022-08-27T09:19:28.788Z
 url_slides: ""
 title: Career Paths Clustering via Sequential Job Embedding and Mixture Markov
   Models [AJ05-EMMM]
