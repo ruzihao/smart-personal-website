@@ -1,37 +1,16 @@
 ---
-title: "[AD13-MLOM] Optimal Inventory Policy with Recommender Systems"
-summary: In this paper, we attempt to develop a newsvendor model for multi-products with different replenishment periods. A recommendation algorithm is embedded to adjust the demand in the model.
-# tags:
-# - Deep Learning
-# date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
-
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
-
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
-
-links:
-- name: Analysis and writing stage
-
-url_code: ""
 url_pdf: ""
-url_slides: ""
+summary: In this paper, we attempt to develop a newsvendor model for
+  multi-products with different replenishment periods. A recommendation
+  algorithm is embedded to adjust the demand in the model.
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+date: 2022-08-27T09:07:04.452Z
+url_slides: ""
+title: Optimal Inventory Policy with Recommender Systems [AD13-MLOM]
+links:
+  - name: Work in progress
+    url: /project
+url_code: ""
 ---
 
 In this paper, we attempt to develop a newsvendor model for multi-products with different replenishment periods. A recommendation algorithm is embedded to adjust the demand in the model.
