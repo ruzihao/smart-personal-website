@@ -1,37 +1,17 @@
 ---
-title: "[AE16-MADA] Post-M&A Turnover Prediction using Deep Neural Networks"
-summary: In this paper, we aim to predict post-M&A turnover rate escalation at firm level and to understand the underlying driving forces using Deep Neural Networks (GNNs) models.
-# tags:
-# - Deep Learning
-# date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
-
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
-
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
-
-links:
-- name: Analysis and writing stage
-
-url_code: ""
 url_pdf: ""
-url_slides: ""
+summary: In this paper, we aim to predict post-M&A turnover rate escalation at
+  firm level and to understand the underlying driving forces using Deep Neural
+  Networks (GNNs) models.
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+date: 2022-08-27T09:09:55.030Z
+url_slides: ""
+title: Post-M&A Turnover Prediction using a Dual-fit GNN Model [AE16-MADA]
+links:
+  - name: Journal version in preparation
+    url: /project
+  - url: /project
+    name: CIST 2022
+url_code: ""
 ---
-
-In this paper, we aim to predict post-M&A turnover rate escalation at firm level and to understand the underlying driving forces using Graph Neural Networks (GNNs) models.
+Gaining highly skilled human capital is one of the primary reasons for corporate mergers and acquisitions (M&A), especially for knowledge intensive industry. However, the inevitable tensions brought by the divergent cultures and organizational misalignment during the M&A process result in high talent turnover rate and ultimately the integration failure. Hence, it is imperative to understand and prepare for the potential effects of M&A process on the employee turnover. To this end, we propose a novel dual-fit model induced heterogeneous Graph Neural Network (GNN) model to predict the talent turnover trend in the post-M&A process, by taking into account the complex relationship among the acquirer firm, the acquiree firm, and the acquired employees. Specifically, we creatively design a dual-fit model comprised of both the firm-level compatibility and employeefirm fit. Extensive evaluations on large-scale real-world data clearly demonstrate the effectiveness of our approach.
