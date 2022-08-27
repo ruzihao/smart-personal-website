@@ -1,37 +1,27 @@
 ---
-title: "[BA16-VCRL] Reinforcement Learning-driven VC Investment Strategy"
-summary: In this paper, we aim to improve venture capital investment strategy by apply Reinforcement Learning (RL) techniques.
-# tags:
-# - Deep Learning
-# date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
-
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
-
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
-
-links:
-- name: Analysis and writing stage
-
-url_code: ""
 url_pdf: ""
-url_slides: ""
+summary: "Venture capital investments play a powerful role in fueling the
+  emergence and growth of early-stage startups. However, only a small fraction
+  of venture-backed startups can survive and exit successfully. Prior
+  data-driven prediction-based or recommendation-based solutions are incapable
+  of providing effective and actionable strategies on proper investment timing
+  and amounts for startups across different investment rounds. In this paper, we
+  develop a novel reinforcement learning-based method, AlphaVC, to facilitate
+  venture capitalists’ decision-making. Our policy-based RL agents can
+  dynamically identify the best candidates and sequentially place the optimal
+  investment amounts at proper rounds to maximize financial returns for a given
+  portfolio. We retrieve company demographics and investment activity data from
+  Crunchbase and test our model in two industry sectors: Financial Services and
+  Information Technology. Our methodology demonstrates its efficacy and
+  superiority in both ranking and portfolio-based performance metrics in
+  comparison with various SOTA baseline methods."
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+date: 2022-08-27T09:21:49.440Z
+url_slides: ""
+title: A Reinforcement Learning-based VC Investment Strategy [BA16-VCRL]
+links:
+  - name: Work in progress
+    url: /project
+url_code: ""
 ---
-
-In this paper, we aim to improve venture capital investment strategy by apply Reinforcement Learning (RL) techniques.
+Venture capital investments play a powerful role in fueling the emergence and growth of early-stage startups. However, only a small fraction of venture-backed startups can survive and exit successfully. Prior data-driven prediction-based or recommendation-based solutions are incapable of providing effective and actionable strategies on proper investment timing and amounts for startups across different investment rounds. In this paper, we develop a novel reinforcement learning-based method, AlphaVC, to facilitate venture capitalists’ decision-making. Our policy-based RL agents can dynamically identify the best candidates and sequentially place the optimal investment amounts at proper rounds to maximize financial returns for a given portfolio. We retrieve company demographics and investment activity data from Crunchbase and test our model in two industry sectors: Financial Services and Information Technology. Our methodology demonstrates its efficacy and superiority in both ranking and portfolio-based performance metrics in comparison with various SOTA baseline methods.
