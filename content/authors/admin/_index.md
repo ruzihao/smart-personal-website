@@ -6,8 +6,8 @@ bio: ""
 interests:
   - Data Mining
   - Business Analytics
+  - Applied Machine Learning
   - Computational Design Science
-  - Entrepreneurial Finance
 social:
   - icon: envelope
     icon_pack: fas
