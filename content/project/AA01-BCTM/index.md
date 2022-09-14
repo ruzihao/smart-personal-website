@@ -26,9 +26,9 @@ title: Firm Profiling and Competition Assessment via Heterogeneous Occupation
 links:
   - name: Journal version in preparation
     url: /project
-  - name: WITS 2021
+  - name: WITS'21
     url: /project
-  - name: HICSS 2022
+  - name: HICSS'22
     url: /project
 url_code: ""
 ---
