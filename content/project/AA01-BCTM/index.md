@@ -29,7 +29,7 @@ links:
   - name: ICIS'22
     url: https://icis2022.aisconferences.org
   - name: HICSS'22
-    url: /project
+    url: https://hicss.hawaii.edu
   - name: WITS'21
     url: https://witsconf.org/wits2021-call-for-papers
 url_code: ""
