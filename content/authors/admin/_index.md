@@ -49,13 +49,15 @@ Dr. Hao (Howard) ZHONG is currently a tenure-track assistant professor in the In
 My CV is available upon request.
 
 Recent news:
-* 09/2022: Two papers accepted by International Conference on Information Systems (ICIS)
-* 09/2022: One paper accepted by Hawaii International Conference on System Science (HICSS)
-* 09/2022: One article "Intelligence artificielle : qui sortira vainqueur de la bataille géopolitique?" published by Les Echos
-* 08/2022: Three papers accepted by INFORMS Workshop on Data Science (INFORMS WDS)
-* 08/2022: One paper accepted by Conference on Information Systems and Technology (CIST)
-* 02/2022: Honored to serve as Co-chair of AI cluster at 2022 INFORMS Annual Meeting
-* 08/2021: One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-* 01/2021: Honored to serve as Co-chair of AI cluster at 2021 INFORMS Annual Meeting
+* 09/2022 - Two papers accepted by International Conference on Information Systems (ICIS)
+* 09/2022 - One paper accepted by Hawaii International Conference on System Science (HICSS)
+* 09/2022 - One article "Intelligence artificielle : qui sortira vainqueur de la bataille géopolitique?" published by Les Echos
+* 08/2022 - Three papers accepted by INFORMS Workshop on Data Science (INFORMS WDS)
+* 08/2022 - One paper accepted by Conference on Information Systems and Technology (CIST)
+* 02/2022 - Honored to serve as Co-chair of AI cluster at 2022 INFORMS Annual Meeting
+* 12/2021 - Two projects granted by ESCP European Research Funding (EERF)
+* 08/2021 - One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+* 01/2021 - Honored to serve as Co-chair of AI cluster at 2021 INFORMS Annual Meeting
+* 12/2020 - One project granted by ESCP European Research Funding (EERF)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
