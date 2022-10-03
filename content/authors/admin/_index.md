@@ -39,6 +39,9 @@ education:
     - course: B.Sc. in Electronic Information Science and Technology
       institution: University of Science and Technology of China (USTC)
       year: ""
+news:
+    - News 1
+    - News 2
 email: ""
 superuser: true
 highlight_name: true
