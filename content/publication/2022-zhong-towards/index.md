@@ -1,5 +1,5 @@
 ---
-title: "Firm Profiling and Competitiveness Assessment: A Heterogeneous Occupation Network based Approach"
+title: "Career Path Clustering via Sequential Job Embedding and Mixture Markov Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-01-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Workshop on Information Technology and Systems (WITS)*
-publication_short: In *Workshop on Information Technology and Systems (WITS)*
+publication: In *Proceedings of International Conference on Information Systems (ICIS)*
+publication_short: In *Proceedings of International Conference on Information Systems (ICIS)*
 
-abstract: Extensive efforts have been made to understand interfirm competitiveness due to its profound significance in several key business objectives. However, it has never been an easy task to fully depict the landscape of competitiveness owing to its heterogeneity, multiformity, and dynamicity. In this paper, we design a novel firm profiling and competitiveness assessment system following the framework defined by Information System Design Theory (ISDT). Specifically, we build a Heterogeneous Occupation Network (HON) using heterogeneous information of employees’ occupation end education histories. We then employ a heterogeneous network embedding model Methpath2Vec to learn firms’ latent representations which are later used to train a supervised classifier model for downstream competitiveness estimation tasks. The efficacy and competency of our proposed system are validated by performance comparisons of multiple models in different settings as well as by formal statistical test analyses. Overall, our solutions shed new light on interfirm competitiveness assessment problems and are potentially beneficial to academic scholars as well as practitioners and decision­makers in the industry.
+abstract: Extracting typical career paths from large­scale and unstructured talent profiles has recently attracted increasing research attention. However, various challenges arise in effectively analyzing self­reported career records. Inspired by recent advances in neural networks and embedding models, we develop a novel career path clustering approach with two major components. First, we formulate an embedded Markov framework to learn job embeddings from longitudinal career records and further use them to compute dynamic embeddings of career paths. Second, to cope with heterogeneous career path clusters, we estimate a mixture of Markov models to optimize cluster­wise job embeddings with a prior embedded space shared by multiple clusters. We conduct extensive experiments with our framework to investigate its algorithmic performance and extract meaningful patterns of career paths in the information technology (IT) industry. The results show that our approach can naturally discover distinct career path clusters and reveal valuable insights.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
