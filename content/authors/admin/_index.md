@@ -48,7 +48,7 @@ Dr. Hao (Howard) ZHONG is currently a tenure-track assistant professor in the In
 
 My CV is available upon request.
 
-News:
+Recent news:
 * 09/2022: Two papers accepted by International Conference on Information Systems (ICIS)
 * 09/2022: One paper accepted by Hawaii International Conference on System Science (HICSS)
 * 09/2022: One article "Intelligence artificielle : qui sortira vainqueur de la bataille géopolitique?" published by Les Echos
