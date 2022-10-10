@@ -59,6 +59,7 @@ Recent news:
 * 12/2021 - Two projects granted by ESCP European Research Funding (EERF)
 * 10/2021 - One papers accepted by Workshop on Information Technology and Systems (WITS)
 * 08/2021 - One paper accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+* 08/2021 - Honored to be an ESCP Fellow of the Center for Design Science in Entrepreneurship (DS:E)
 * 01/2021 - Honored to serve as Co-chair of AI cluster at 2021 INFORMS Annual Meeting
 * 12/2020 - One project granted by ESCP European Research Funding (EERF)
 
