@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Data Mining
-  - Business Analytics
-  - Applied Machine Learning
   - Computational Design Science
+  - Representation Learning
+  - Venture Analytics
+  - FinTech
 social:
   - icon: envelope
     icon_pack: fas
