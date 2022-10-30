@@ -47,7 +47,9 @@ header:
 - Member of ACM
 
 ## Professional Services
-- Senior Program Committee Member, AAAI Conference on Artiﬁcial Intelligence (AAAI), 2023
+- Program Committee Member, ACM The Web Conference (WWW), 2023
+- Senior Program Committee Member, AAAI Conference on Artificial Intelligence (AAAI), 2023
+- Judge, INFORMS Poster Competition, 2022
 - Program Committee Member, ACM International Conference on Information and Knowledge Management (CIKM), 2022
 - Co-Chair of Artiﬁcial Intelligence (AI) Cluster, INFORMS Annual Meeting, 2022
 - Program Committee Member, ACM International Conference on Web Search and Data Mining (WSDM), 2022
