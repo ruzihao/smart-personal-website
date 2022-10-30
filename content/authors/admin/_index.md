@@ -45,7 +45,9 @@ superuser: true
 highlight_name: true
 ---
 
+<p align="justify">
 Dr. Hao (Howard) ZHONG is currently a tenure-track assistant professor in the Information and Operations Management department of <a href="https://escp.eu/">ESCP Business School (Paris)</a>. His research interests are in data mining, applied machine learning, entrepreneurial finance, and business venture analytics. He has several publications in top venues of data mining, information systems and operations research, including refereed journals (AOR, TKDE, TMC) and conference proceedings (ICIS, CIST, HICSS, WITS, INFORMS WDS, KDD, ICDM, SDM). He served as co-chair of AI cluster at INFORMS Annual Meeting in 2021 and 2022. Prior to joining ESCP, he enjoyed a three-year entrepreneurial experience before joining ESCP, as a co-founder and Chief Data Scientist of a FinTech startup in China, which leverages the power of Big Data and AI to provide financial risk management products and services for top financial clients.
+</p>
 
 My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
