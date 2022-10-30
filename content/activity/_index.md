@@ -32,12 +32,6 @@ header:
 - Principal Investigator (PI), “Waiting or Buying Substitutions? Dynamic Inventory Policy with Recommendation System under Shortage”, ESCP European Research Fund (EERF), 2022
 - Principal Investigator (PI), “Talent Migration Pattern Mining: Leveraging Business Rivalry and Financial Investments”, ESCP European Research Fund (EERF), 2022
 
-## Professional Membership
-- Member of the Association of Information Systems (AIS)
-- Member of INFORMS (Information Systems Society)
-- Member of the Academy of Management (AoM)
-- Member of ACM
-
 ## Awards
 - Dissertation Fellowship Award, Rutgers University, 2017-2018
 - IEEE International Conference on Data Mining (ICDM) Travel Award, ICDM 2016
@@ -45,6 +39,12 @@ header:
 - Joseph Liu Thesis Prize (Best M.Sc. Thesis), York University, 2014
 - Outstanding Graduate, USTC, 2011
 - Chinese National Scholarship (1%), Ministry of Education of China, 2011
+
+## Professional Membership
+- Member of the Association of Information Systems (AIS)
+- Member of INFORMS (Information Systems Society)
+- Member of the Academy of Management (AoM)
+- Member of ACM
 
 ## Professional Services
 - Senior Program Committee Member, AAAI Conference on Artiﬁcial Intelligence (AAAI), 2023
@@ -61,6 +61,17 @@ header:
 - Program Committee Member, International Joint Conferences on Artiﬁcial Intelligence (IJCAI), 2021
 - Program Committee Member, ACM International Conference on Information and Knowledge Management (CIKM), 2021
 - Program Committee Member, International Conference on Knowledge Science, Engineering and Management (KSEM), 2017
+
+## Institutional Services
+- Initiator and Coordinator, IOM Department Research Seminar Series, 2022-present
+- Fellow, Center for Design Science in Entrepreneurship (DS:E), 2021-present
+- Jury Member, ESCP-Square & ESCP-Criteo Data Hackathon, 2022
+- Committee Member, MBD Program Recruitment Committee, 2022
+- Committee Member, IOM Faculty Recruitment Committee, 2022
+- Committee Member, MBD Program Recruitment Committee, 2021
+- Jury Member, ESCP-Beihang Student Exchange Program, 2021
+- Jury Member, ESCP-Michelin & ESCP-Criteo Data Hackathon, 2021
+- Committee Member, IOM Faculty Recruitment Committee, 2021
 
 ## Invited & Ad-hoc Reviewer
 • Management Information Systems Quarterly (MISQ)
@@ -83,14 +94,3 @@ header:
 • IEEE International Conference on Data Mining (ICDM)
 • SIAM International Conference on Data Mining (SDM)
 • IEEE International Conference on Data Science and Advanced Analytics (DSAA)
-
-## Institutional Services
-- Initiator and Coordinator, IOM Department Research Seminar Series, 2022-present
-- Fellow, Center for Design Science in Entrepreneurship (DS:E), 2021-present
-- Jury Member, ESCP-Square & ESCP-Criteo Data Hackathon, 2022
-- Committee Member, MBD Program Recruitment Committee, 2022
-- Committee Member, IOM Faculty Recruitment Committee, 2022
-- Committee Member, MBD Program Recruitment Committee, 2021
-- Jury Member, ESCP-Beihang Student Exchange Program, 2021
-- Jury Member, ESCP-Michelin & ESCP-Criteo Data Hackathon, 2021
-- Committee Member, IOM Faculty Recruitment Committee, 2021
