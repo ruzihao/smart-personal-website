@@ -7,7 +7,7 @@ interests:
   - Data Mining
   - Computational Design Science
   - Representation Learning
-  - Venture Analytics
+  - Venture Data Analytics
   - FinTech
 social:
   - icon: envelope
