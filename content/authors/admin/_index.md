@@ -52,6 +52,7 @@ Dr. Hao (Howard) ZHONG is currently a tenure-track assistant professor in the In
 My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
 Recent news:
+* 11/2022 - Interview on <a href="https://thechoice.escp.eu/tomorrow-choices/my-boss-wants-me-to-launch-us-into-the-metaverse-what-do-i-do/">Strategies for Metaverse Launch</a> by <a href="https://thechoice.escp.eu/">The Choice by ESCP</a>
 * 10/2022 - Four papers accepted by <a href="https://witsconf.org/wits2022-call-for-papers/">Workshop on Information Technology and Systems (WITS)</a>
 * 09/2022 - Two papers accepted by <a href="https://icis2022.aisconferences.org/">International Conference on Information Systems (ICIS)</a>
 * 09/2022 - One paper accepted by <a href="https://hicss.hawaii.edu/">Hawaii International Conference on System Science (HICSS)</a>
