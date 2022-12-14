@@ -28,6 +28,10 @@ header:
   - Management Information Systems (29:623:220:07), Bachelor-level, 2016F
 
 ## Research Grants
+- Principal Investigator (PI), “AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy”, ESCP European Research Fund (EERF), 2023
+- Principal Investigator (PI), “Towards a Better Characterization of Career Paths: Sequential Job Embedding and Mixture Markov Models”, ESCP European Research Fund (EERF), 2023
+- Principal Investigator (PI), “Acqui-hiring or Acqui-quitting: Data-Driven Post-M&A Turnover Prediction via a Dual-fit Model”, ESCP European Research Fund (EERF), 2023
+- Principal Investigator (PI), “Asset Pricing Anomalies and Machine Learning”, ESCP European Research Fund (EERF), 2023
 - Principal Investigator (PI), “Turnovers of Upper Echelon Matter: Effects of Firms Position Index on Market Value”, ESCP European Research Fund (EERF), 2022
 - Principal Investigator (PI), “Waiting or Buying Substitutions? Dynamic Inventory Policy with Recommendation System under Shortage”, ESCP European Research Fund (EERF), 2022
 - Principal Investigator (PI), “Talent Migration Pattern Mining: Leveraging Business Rivalry and Financial Investments”, ESCP European Research Fund (EERF), 2022
