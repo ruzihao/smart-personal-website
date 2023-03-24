@@ -37,6 +37,7 @@ header:
 - Principal Investigator (PI), “Talent Migration Pattern Mining: Leveraging Business Rivalry and Financial Investments”, ESCP European Research Fund (EERF), 2021
 
 ## Awards
+- Best Paper Runner-up Award, Workshop on Information Technology and Systems (WITS), 2022
 - Dissertation Fellowship Award, Rutgers University, 2017-2018
 - IEEE International Conference on Data Mining (ICDM) Travel Award, ICDM 2016
 - Dean’s Fund for Summer Research, Rutgers Business School, 2016
@@ -81,6 +82,7 @@ header:
 
 ## Invited & Ad-hoc Reviewer
 • Management Information Systems Quarterly (MISQ)
+• Information & Management (I&M)
 • Transactions on the Web (TWEB)
 • Transactions on Intelligent Systems and Technology (TIST)
 • Electronic Commerce Research and Applications (ECRA)
