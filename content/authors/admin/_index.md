@@ -1,6 +1,6 @@
 ---
 title: Hao (Howard) ZHONG
-role: "Assistant Professor"
+role: "Assistant Professor | Scientific Co-director of MBD Program"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
