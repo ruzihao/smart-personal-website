@@ -4,7 +4,7 @@ summary: "The diversity of opinions is both cure and curse for the effective use
 url_video: ""
 date: 2022-10-08T09:21:49.440Z
 url_slides: ""
-title: Decision Aggregation with Reliability Propagation [BE09-DARP]
+title: Decision Aggregation with Reliability Propagation
 links:
   - name: Journal version in preparation
     url: /project

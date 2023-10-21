@@ -17,7 +17,7 @@ summary: Gaining highly skilled human capital is one of the primary reasons for
 url_video: ""
 date: 2022-08-27T09:09:55.030Z
 url_slides: ""
-title: Post-M&A Turnover Prediction using a Dual-fit GNN Model [AE16-MADA]
+title: Data-driven Post-M&A Turnover Prediction via a Dual-fit Model
 links:
   - name: Journal version in preparation
     url: /project

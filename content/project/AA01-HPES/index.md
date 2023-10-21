@@ -29,8 +29,7 @@ summary: "It is critical and important for venture investors to find
 url_video: ""
 date: 2022-08-27T09:04:16.679Z
 url_slides: ""
-title: Predicting High-potential Early-stage Startups using Scalable
-  Heterogeneous Graph Neural Networks [AA02-HPES]
+title: Seeking High-potential Startups using Heterogeneous Venture Information Networks
 links:
   - name: Journal version in preparation
     url: /project

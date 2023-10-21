@@ -21,8 +21,7 @@ summary: Extensive eﬀorts have been made by both academics and practitioners t
 url_video: ""
 date: 2022-08-27T08:58:18.071Z
 url_slides: ""
-title: Firm Profiling and Competition Assessment via Heterogeneous Occupation
-  Network [AA01-BCTM]
+title: Firm Profiling and Competition Assessment - A Design Science Approach
 links:
   - name: Journal version in preparation
     url: /project

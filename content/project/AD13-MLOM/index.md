@@ -6,7 +6,7 @@ summary: In this paper, we attempt to develop a newsvendor model for
 url_video: ""
 date: 2022-08-27T09:07:04.452Z
 url_slides: ""
-title: Optimal Inventory Policy with Recommender Systems [AD13-MLOM]
+title: Recommendation System with Delay Option
 links:
   - name: Work in progress
     url: /project

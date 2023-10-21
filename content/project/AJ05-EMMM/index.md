@@ -18,8 +18,7 @@ summary: Extracting typical career paths from large-scale and unstructured
 url_video: ""
 date: 2022-08-27T09:19:28.788Z
 url_slides: ""
-title: Career Paths Clustering via Sequential Job Embedding and Mixture Markov
-  Models [AJ05-EMMM]
+title: Uncovering IT Career Path Patterns with Job Embedding-based Sequence Clustering
 links:
   - name: Journal version in preparation
     url: /project
