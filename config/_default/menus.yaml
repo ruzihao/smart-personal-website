@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Work in Progress
+  - name: Current Projects
     url: '/project'
     weight: 20
   - name: Publications
