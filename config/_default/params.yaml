@@ -99,8 +99,7 @@ features:
 
 extensions:
   cms:
-    # branch: master
-    branch: main
+    branch: master
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
