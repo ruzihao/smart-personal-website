@@ -8,6 +8,8 @@ title: Decision Aggregation with Reliability Propagation
 links:
   - name: DSS
     url: https://doi.org/10.1016/j.dss.2023.114130
+  - name: PACIS'23
+    url: https://aisel.aisnet.org/pacis2023/167/
   - name: WITS'22
     url: https://witsconf.org/wits2022-call-for-papers
 url_code: ""

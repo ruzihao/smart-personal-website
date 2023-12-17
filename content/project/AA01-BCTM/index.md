@@ -23,12 +23,10 @@ date: 2022-08-27T08:58:18.071Z
 url_slides: ""
 title: Firm Profiling and Competition Assessment - A Design Science Approach
 links:
-  - name: Journal version in preparation
-    url: /project
+  - name: HICSS'23
+    url: https://hdl.handle.net/10125/103090
   - name: ICIS'22
-    url: https://icis2022.aisconferences.org
-  - name: HICSS'22
-    url: https://hicss.hawaii.edu
+    url: https://aisel.aisnet.org/icis2022/data_analytics/data_analytics/8/
   - name: WITS'21
     url: https://witsconf.org/wits2021-call-for-papers
 url_code: ""
