@@ -18,7 +18,7 @@ summary: "Venture capital investments play a powerful role in fueling the
 url_video: ""
 date: 2022-08-27T09:21:49.440Z
 url_slides: ""
-title: AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy
+title: AlphaVC - A Reinforcement Learning-based Venture Capital Investment Strategy
 links:
   - name: Journal version in preparation
     url: /project
