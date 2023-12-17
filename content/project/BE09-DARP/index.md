@@ -6,8 +6,8 @@ date: 2022-10-08T09:21:49.440Z
 url_slides: ""
 title: Decision Aggregation with Reliability Propagation
 links:
-  - name: Journal version in preparation
-    url: /project
+  - name: DSS
+    url: https://doi.org/10.1016/j.dss.2023.114130
   - name: WITS'22
     url: https://witsconf.org/wits2022-call-for-papers
 url_code: ""

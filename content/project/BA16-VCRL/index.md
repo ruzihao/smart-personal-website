@@ -16,7 +16,7 @@ summary: "Venture capital investments play a powerful role in fueling the
   superiority in both ranking and portfolio-based performance metrics in
   comparison with various SOTA baseline methods."
 url_video: ""
-date: 2022-08-27T09:21:49.440Z
+date: 2022-08-27
 url_slides: ""
 title: AlphaVC - A Reinforcement Learning-based Venture Capital Investment Strategy
 links:
