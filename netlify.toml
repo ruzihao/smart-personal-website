@@ -1,10 +1,11 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "CI= npm run build"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = ""
   HUGO_ENABLEGITINFO = "true"
+  CI = "false"
 
 [context.production.environment]
   HUGO_ENV = "production"
