@@ -23,7 +23,7 @@ links:
   - name: PACIS'23
     url: https://aisel.aisnet.org/pacis2023/158/
   - name: ICIS'22
-    url: https://icis2022.aisconferences.org
+    url: https://aisel.aisnet.org/icis2022/data_analytics/data_analytics/5/
   - name: INFORMS WDS'22
     url: https://blogs.ubc.ca/datascience2022
   - name: WITS'22
