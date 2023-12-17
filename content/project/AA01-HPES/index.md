@@ -31,8 +31,6 @@ date: 2022-08-27T09:04:16.679Z
 url_slides: ""
 title: Seeking High-potential Startups using Heterogeneous Venture Information Networks
 links:
-  - name: Journal version in preparation
-    url: /project
   - name: HICSS'24
     url: https://hdl.handle.net/10125/107511
   - name: ICIS'23

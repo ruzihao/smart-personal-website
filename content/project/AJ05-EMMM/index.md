@@ -20,8 +20,8 @@ date: 2022-08-27T09:19:28.788Z
 url_slides: ""
 title: Uncovering IT Career Path Patterns with Job Embedding-based Sequence Clustering
 links:
-  - name: Journal version in preparation
-    url: /project
+  - name: PACIS'23
+    url: https://aisel.aisnet.org/pacis2023/158/
   - name: ICIS'22
     url: https://icis2022.aisconferences.org
   - name: INFORMS WDS'22

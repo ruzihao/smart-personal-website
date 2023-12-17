@@ -19,8 +19,8 @@ date: 2022-08-27T09:09:55.030Z
 url_slides: ""
 title: Data-driven Post-M&A Turnover Prediction via a Dual-fit Model
 links:
-  - name: Journal version in preparation
-    url: /project
+  - name: PACIS'23
+    url: https://aisel.aisnet.org/pacis2023/98/
   - name: CIST'22
     url: https://sites.google.com/view/cist2022
   - name: INFORMS WDS'22

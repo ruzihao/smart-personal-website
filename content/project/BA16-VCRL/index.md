@@ -20,7 +20,9 @@ date: 2022-08-27
 url_slides: ""
 title: AlphaVC - A Reinforcement Learning-based Venture Capital Investment Strategy
 links:
-  - name: Journal version in preparation
+  - name: HICSS'24
+    url: https://hdl.handle.net/10125/107511
+  - name: CSWIM'23
     url: /project
   - name: INFORMS WDS'22
     url: https://blogs.ubc.ca/datascience2022
