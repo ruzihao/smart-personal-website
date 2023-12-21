@@ -58,6 +58,7 @@ My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
 Recent news:
 * Dec. 2023 - Two projects granted by ESCP European Research Funding (EERF)
+* Dec. 2023 - One article <a href="https://blogs.lse.ac.uk/businessreview/2023/12/12/ai-human-collaboration-can-unlock-new-sources-of-competitive-advantage/">"AI-human collaboration can unlock new sources of competitive advantage"</a> published by LSE Business Review
 * Nov. 2023 - One paper accepted by <a href="https://doi.org/10.1016/j.dss.2023.114130">Decision Support Systems</a>
 * June 2023 - Three papers accepted by <a href="https://pacis2023.aisconferences.org/">Pacific-Asia Conference on Information Systems (PACIS)</a>
 * May 2023 - Appointed Scientific Co-director of <a href="https://escp.eu/programmes/specialised-masters-MScs/MSc-in-Big-Data-and-Business-Analytics">MSc in Big Data and Business Analytics</a>, starting from Sept. 2023
