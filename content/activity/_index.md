@@ -55,6 +55,10 @@ header:
 
 ## Professional Services
 - Program Committee Member, International Joint Conferences on Artiﬁcial Intelligence (IJCAI), 2024
+- Senior Program Committee Member, AAAI Conference on Artificial Intelligence (AAAI), 2024
+- Program Committee Member, ACM International Conference on Information and Knowledge Management (CIKM), 2023
+- Co-chair of Artificial Intelligence (AI) Cluster, INFORMS Annual Meeting, 2023
+- Program Committee Member, International Joint Conferences on Artificial Intelligence (IJCAI), 2023
 - Program Committee Member, ACM The Web Conference (WWW), 2023
 - Senior Program Committee Member, AAAI Conference on Artificial Intelligence (AAAI), 2023
 - Judge, INFORMS Poster Competition, 2022
