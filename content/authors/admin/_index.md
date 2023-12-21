@@ -57,7 +57,8 @@ My Erdős number is 4.
 My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
 Recent news:
-* Nov. 2023 - One papers accepted by <a href="https://doi.org/10.1016/j.dss.2023.114130">Decision Support Systems</a>
+* Dec. 2023 - Two projects granted by ESCP European Research Funding (EERF)
+* Nov. 2023 - One paper accepted by <a href="https://doi.org/10.1016/j.dss.2023.114130">Decision Support Systems</a>
 * June 2023 - Three papers accepted by <a href="https://pacis2023.aisconferences.org/">Pacific-Asia Conference on Information Systems (PACIS)</a>
 * May 2023 - Appointed Scientific Co-director of <a href="https://escp.eu/programmes/specialised-masters-MScs/MSc-in-Big-Data-and-Business-Analytics">MSc in Big Data and Business Analytics</a>, starting from Sept. 2023
 * Feb. 2023 - Honored to serve as Co-chair of AI cluster at <a href="https://meetings.informs.org/wordpress/phoenix2023/">2023 INFORMS Annual Meeting</a>
