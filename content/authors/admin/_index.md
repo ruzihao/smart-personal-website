@@ -57,6 +57,7 @@ My Erdős number is 4.
 My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
 Recent news:
+* Jan. 2024 - Joined a very interesting conversation on AI-human collaboration at <a href="https://www.linkedin.com/events/escplive-will2024betheyearofai-7151574482648788993/theater/">ESCP Live!</a> Check it out!
 * Dec. 2023 - Two projects granted by ESCP European Research Funding (EERF)
 * Dec. 2023 - One article <a href="https://blogs.lse.ac.uk/businessreview/2023/12/12/ai-human-collaboration-can-unlock-new-sources-of-competitive-advantage/">"AI-human collaboration can unlock new sources of competitive advantage"</a> published by LSE Business Review
 * Nov. 2023 - One paper accepted by <a href="https://doi.org/10.1016/j.dss.2023.114130">Decision Support Systems</a>
