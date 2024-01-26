@@ -1,6 +1,6 @@
 ---
 title: Hao (Howard) ZHONG
-role: "Assistant Professor | Scientific Co-director of MBD Program"
+role: "Assistant Professor | Scientific Co-director of MSc in Big Data and Business Analytics"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
