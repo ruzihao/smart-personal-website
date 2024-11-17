@@ -7,7 +7,7 @@ interests:
   - Data Mining
   - Business Analytics
   - Computational Design Science
-  - Venture Data Analytics
+  - Entrepreneurial Finance
 social:
   - icon: envelope
     icon_pack: fas
