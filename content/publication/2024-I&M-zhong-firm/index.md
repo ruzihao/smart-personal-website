@@ -1,21 +1,19 @@
 ---
-title: "Decision Aggregation with Reliability Propagation"
+title: "Firm profiling and competition assessment: A design science approach"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - H. Zhong
-- Y. Chen
 - C. Liu
-- H. Benson
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-01-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Decision Support Systems (DSS)*
-publication_short: In *Decision Support Systems (DSS)*
+publication: In *Information & Management (I&M)*
+publication_short: In *Information & Management (I&M)*
 
-abstract: People often make decisions differently, even when faced with the same decision-making scenario and objectives, due to their varying abilities to access, process, and comprehend information relevant to the decisions at hand. To reconcile these differing perspectives and arrive at a unified decision, various approaches such as crowd-sourced systems have been developed to tap into the collective intelligence embodied in the opinions from a group of individuals. The diversity of opinions is both cure and curse for the effective use of crowd-sourced intelligence. To unify crowd-sourced intelligence for a well-informed decision, we propose an algorithmic approach for decision aggregation that accurately quantifies the reliability of information from multiple sources. The key idea behind this approach is to model the propagation of reliability in decisions based on an ensemble of relevance graphs, where the optimization of both the reliability propagation and the graph ensemble are mutually reinforced. The propagated reliability can be used to aggregate intelligence from multiple sources and facilitate decision-making by leveraging various types of inter-correlations of information sources and the subjects of the information. Meanwhile, the optimized graph ensemble can retain the relevance structures with respect to the crowd-sourced intelligence. We evaluate our approach with large-scale data sets, and the results show that, when aggregating analysts’ recommendations in stock markets, our approach not only outperforms alternative methods, but also provides interesting insights into the reliability of the information.
+abstract: Extensive efforts have been made by both academics and practitioners to understand the inter-firm competitive relationship owing to its profound impacts on multiple key business goals, e.g., company benchmarking, marketing strategy planning, and talent acquisition. However, it has never been an easy task to fully characterize firms and assess the competitive relationship among them, mainly due to the challenge of information heterogeneity. In this regard, we propose a novel IT artifact for firm profiling and inter-firm competition assessment guided by Information System Design Theory (ISDT). We start by constructing a Heterogeneous Occupation Network (HON) using employees’ occupation details and educational attainments. Then we adopt a Metapath2vec-based heterogeneous network embedding model to learn firms latent profiles (embeddings). Using the firm features and embeddings as input, we train multiple supervised classifiers to assess the competitive relationship among the firms. Following the principles of design as a search process, we demonstrate the effectiveness of our IT artifact through extensive experimental studies and detailed discussions. Our research has also discovered that the occupation and education specifics of employees are key factors in identifying potential competitors of a focal firm.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

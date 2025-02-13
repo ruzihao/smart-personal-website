@@ -67,6 +67,7 @@ My Erdős number is 4 (Me → [Hui Xiong](https://www.hkust-gz.edu.cn/people/hui
 My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
 Recent news:
+* Jan. 2025 - One paper accepted by <a href="https://dl.acm.org/doi/abs/10.1145/3712705">ACM Transactions on Management Information Systems</a>
 * Sept. 2024 - One article <a href="https://www.lesechos.fr/idees-debats/leadership-management/pour-une-intelligence-artificielle-generative-qui-augmente-plus-quelle-ne-remplace-2115983">"Pour une intelligence artificielle générative qui augmente plus qu'elle ne remplace"</a> published by Les Echos
 * June 2024 - Honored to be promoted to Associate Professor with Tenure!!
 * June 2024 - One paper accepted by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378720624000703">Information and Management</a>
@@ -79,10 +80,10 @@ Recent news:
 * June 2023 - Three papers accepted by <a href="https://pacis2023.aisconferences.org/">Pacific-Asia Conference on Information Systems (PACIS)</a>
 * May 2023 - Appointed Scientific Co-director of <a href="https://escp.eu/programmes/specialised-masters-MScs/MSc-in-Big-Data-and-Business-Analytics">MSc in Big Data and Business Analytics</a>, starting from Sept. 2023
 * Feb. 2023 - Honored to serve as Co-chair of AI cluster at <a href="https://meetings.informs.org/wordpress/phoenix2023/">2023 INFORMS Annual Meeting</a>
-* Dec. 2022 to Mar. 2023 - Visiting at <a href="https://hkust-gz.edu.cn/academics/four-hubs/information-hub/artificial-intelligence">Artificial Intelligence (AI) Thrust of HKUST (Guangzhou)</a>
 * <details>
   <summary>More...</summary>
   <ul>
+    <li>Dec. 2022 to Mar. 2023 - Visiting at <a href="https://hkust-gz.edu.cn/academics/four-hubs/information-hub/artificial-intelligence">Artificial Intelligence (AI) Thrust of HKUST (Guangzhou)</a></li>
     <li> Dec. 2022 - Honored to receive the Best Paper Runner-Up award at <a href="https://witsconf.org/wits2022-call-for-papers/">Workshop on Information Technology and Systems (WITS)</a></li>
     <li> Dec. 2022 - Four projects granted by ESCP European Research Funding (EERF)</li>
     <li> Nov. 2022 - Interview on <a href="https://thechoice.escp.eu/tomorrow-choices/my-boss-wants-me-to-launch-us-into-the-metaverse-what-do-i-do/">Strategies for Metaverse Launch</a> by <a href="https://thechoice.escp.eu/">The Choice by ESCP</a></li>
