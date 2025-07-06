@@ -4,10 +4,10 @@ role: "Associate Professor | Scientific Co-director of MSc in Big Data and Busin
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Data Mining
-  - Business Analytics
-  - Computational Design Science
-  - Entrepreneurial Finance
+  - Applied machine learning
+  - Computational design science
+  - Venture and workforce analytics
+  - Data-driven entrepreneurial finance
 social:
   - icon: envelope
     icon_pack: fas
