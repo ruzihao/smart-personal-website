@@ -67,6 +67,7 @@ My Erdős number is 4 (Me → [Hui Xiong](https://www.hkust-gz.edu.cn/people/hui
 My CV is available <a href="mailto:hzhong@escp.eu">upon request</a>.
 
 Recent news:
+* July 2025 - One article <a href="https://www.europeanbusinessreview.com/how-to-translate-ai-potential-into-corporate-profitability/">"How To Translate AI Potential Into Corporate Profitability"</a> published by The European Business Review (TEBR)
 * Jan. 2025 - One paper accepted by <a href="https://dl.acm.org/doi/abs/10.1145/3712705">ACM Transactions on Management Information Systems</a>
 * Sept. 2024 - One article <a href="https://www.lesechos.fr/idees-debats/leadership-management/pour-une-intelligence-artificielle-generative-qui-augmente-plus-quelle-ne-remplace-2115983">"Pour une intelligence artificielle générative qui augmente plus qu'elle ne remplace"</a> published by Les Echos
 * June 2024 - Honored to be promoted to Associate Professor with Tenure!!
