@@ -6,8 +6,8 @@ bio: ""
 interests:
   - Applied machine learning
   - Computational design science
-  - Venture and workforce analytics
-  - Data-driven entrepreneurial finance
+  - Entrepreneuship & venture investments
+  - Strategic & talent analytics
 social:
   - icon: envelope
     icon_pack: fas
