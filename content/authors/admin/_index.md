@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Data Mining & Machine Learning
   - Computational Design Science
-  - Entrepreneuship & Venture Capital
+  - Entrepreneurship & Venture Capital
   - Business Strategy & People Analytics
 social:
   - icon: envelope
