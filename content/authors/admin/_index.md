@@ -7,7 +7,7 @@ interests:
   - Applied machine learning
   - Computational design science
   - Entrepreneuship & venture investments
-  - Strategic & talent analytics
+  - Strategy & talent analytics
 social:
   - icon: envelope
     icon_pack: fas
