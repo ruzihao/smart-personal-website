@@ -4,10 +4,10 @@ role: "Associate Professor | Scientific Co-director of MSc in Business Analytics
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Applied machine learning
-  - Computational design science
-  - Entrepreneuship & venture investments
-  - Strategy & talent analytics
+  - Data Mining & Machine Learning
+  - Computational Design Science
+  - Entrepreneuship & Venture Capital
+  - Business Strategy & People Analytics
 social:
   - icon: envelope
     icon_pack: fas
